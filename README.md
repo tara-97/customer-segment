@@ -5,7 +5,6 @@ This is a project based on classifying customers of a portugese-wholesale-retail
 The dataset for this following project can be found in 'https://archive.ics.uci.edu/ml/datasets/Wholesale+customers'
 
 # Library and Frameworks used
-___________________________
 . Numpy
 
 . Pandas
@@ -17,3 +16,4 @@ ___________________________
 	.PCA
 
 . Matplotlib
+
