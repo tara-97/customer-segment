@@ -11,7 +11,9 @@ ___________________________
 . Pandas
 
 . Scikit-learn
+
 	.k-Means
+	
 	.PCA
 
 . Matplotlib
